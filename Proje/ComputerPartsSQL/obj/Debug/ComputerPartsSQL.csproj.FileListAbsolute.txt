@@ -1,0 +1,118 @@
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.AssemblyReference.cache
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.Form1.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.Properties.Resources.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.GenerateResource.cache
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.CoreCompileInputs.cache
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.exe.config
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.exe
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.pdb
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.CopyComplete
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.exe
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.pdb
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.adminPanel.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddPanel.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddMotherboard.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateMotherboard.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdatePanel.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMotherboard.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowPanel.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMotherboardForUsers.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.userPanel.resources
+C:\Users\halit\source\repos\ComputerPartsSQL\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UsersPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.exe.config
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.exe
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.pdb
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.AssemblyReference.cache
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddMotherboard.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.adminPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.Form1.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.Properties.Resources.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMotherboard.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMotherboardForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateMotherboard.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdatePanel.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.userPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UsersPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.GenerateResource.cache
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.CoreCompileInputs.cache
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.CopyComplete
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.exe
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.pdb
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.addCPU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.updateCPU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.showCPU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.addGPU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateGPU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowGPU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddRAM.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateRAM.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowRAM.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddPSU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdatePSU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowPSU.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddMonitor.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateMonitor.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMonitor.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddMouse.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMouse.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateMouse.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddKeyboard.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateKeyboard.resources
+C:\Users\barda\OneDrive\Masaüstü\projehalit\Yeni klasör\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowKeyboard.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.exe.config
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.exe
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\bin\Debug\ComputerPartsSQL.pdb
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\bin\Debug\AdvancedDataGridView.dll
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\bin\Debug\AdvancedDataGridView.xml
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.AssemblyReference.cache
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.addCPU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.addGPU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddKeyboard.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddMonitor.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddMotherboard.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddMouse.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddPSU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.AddRAM.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.adminPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.Form1.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.Properties.Resources.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.showCPU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowGPU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowKeyboard.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMonitor.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMotherboard.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMotherboardForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMouse.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowPSU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowRAM.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.updateCPU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateGPU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateKeyboard.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateMonitor.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateMotherboard.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateMouse.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdatePanel.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdatePSU.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UpdateRAM.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.userPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.UsersPanel.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.GenerateResource.cache
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.CoreCompileInputs.cache
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.csproj.CopyComplete
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.exe
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.pdb
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowCPUForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowGPUForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowKeyboardForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMonitorForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowMouseForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowPSUForUsers.resources
+C:\Users\barda\OneDrive\Masaüstü\Proje\ComputerPartsSQL\obj\Debug\ComputerPartsSQL.ShowRAMForUsers.resources

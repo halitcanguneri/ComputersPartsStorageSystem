@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BBF45DC-CBD6-496A-B1A0-4B910C02F339}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ComputerPartsSQL</RootNamespace>
+    <AssemblyName>ComputerPartsSQL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AdvancedDataGridView, Version=0.1.0.10, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\ADGV.0.1.0.10\lib\net40\AdvancedDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="KaanOrtak, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\KaanOrtak.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="addCPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addCPU.Designer.cs">
+      <DependentUpon>addCPU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addGPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addGPU.Designer.cs">
+      <DependentUpon>addGPU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddKeyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddKeyboard.Designer.cs">
+      <DependentUpon>AddKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMonitor.Designer.cs">
+      <DependentUpon>AddMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMotherboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMotherboard.Designer.cs">
+      <DependentUpon>AddMotherboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddMouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddMouse.Designer.cs">
+      <DependentUpon>AddMouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPanel.Designer.cs">
+      <DependentUpon>AddPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPSU.Designer.cs">
+      <DependentUpon>AddPSU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddRAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddRAM.Designer.cs">
+      <DependentUpon>AddRAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminPanel.Designer.cs">
+      <DependentUpon>adminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComputerPartsDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComputerPartsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComputerPartsDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComputerPartsDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComputerPartsDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComputerPartsDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComputerPartsStorageDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComputerPartsStorageDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="showCPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="showCPU.Designer.cs">
+      <DependentUpon>showCPU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowCPUForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowCPUForUsers.Designer.cs">
+      <DependentUpon>ShowCPUForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowGPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowGPU.Designer.cs">
+      <DependentUpon>ShowGPU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowGPUForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowGPUForUsers.Designer.cs">
+      <DependentUpon>ShowGPUForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowKeyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowKeyboard.Designer.cs">
+      <DependentUpon>ShowKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowKeyboardForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowKeyboardForUsers.Designer.cs">
+      <DependentUpon>ShowKeyboardForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowMonitor.Designer.cs">
+      <DependentUpon>ShowMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowMonitorForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowMonitorForUsers.Designer.cs">
+      <DependentUpon>ShowMonitorForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowMotherboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowMotherboard.Designer.cs">
+      <DependentUpon>ShowMotherboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowMotherboardForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowMotherboardForUsers.Designer.cs">
+      <DependentUpon>ShowMotherboardForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowMouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowMouse.Designer.cs">
+      <DependentUpon>ShowMouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowMouseForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowMouseForUsers.Designer.cs">
+      <DependentUpon>ShowMouseForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPanel.Designer.cs">
+      <DependentUpon>ShowPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPSU.Designer.cs">
+      <DependentUpon>ShowPSU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowPSUForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowPSUForUsers.Designer.cs">
+      <DependentUpon>ShowPSUForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowRAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowRAM.Designer.cs">
+      <DependentUpon>ShowRAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowRAMForUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowRAMForUsers.Designer.cs">
+      <DependentUpon>ShowRAMForUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="updateCPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="updateCPU.Designer.cs">
+      <DependentUpon>updateCPU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateGPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateGPU.Designer.cs">
+      <DependentUpon>UpdateGPU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateKeyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateKeyboard.Designer.cs">
+      <DependentUpon>UpdateKeyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateMonitor.Designer.cs">
+      <DependentUpon>UpdateMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateMotherboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateMotherboard.Designer.cs">
+      <DependentUpon>UpdateMotherboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UpdateMouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateMouse.Designer.cs">
+      <DependentUpon>UpdateMouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePanel.Designer.cs">
+      <DependentUpon>UpdatePanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdatePSU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdatePSU.Designer.cs">
+      <DependentUpon>UpdatePSU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateRAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateRAM.Designer.cs">
+      <DependentUpon>UpdateRAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userPanel.Designer.cs">
+      <DependentUpon>userPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UsersPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersPanel.Designer.cs">
+      <DependentUpon>UsersPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="addCPU.resx">
+      <DependentUpon>addCPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addGPU.resx">
+      <DependentUpon>addGPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddKeyboard.resx">
+      <DependentUpon>AddKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMonitor.resx">
+      <DependentUpon>AddMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMotherboard.resx">
+      <DependentUpon>AddMotherboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddMouse.resx">
+      <DependentUpon>AddMouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPanel.resx">
+      <DependentUpon>AddPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPSU.resx">
+      <DependentUpon>AddPSU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddRAM.resx">
+      <DependentUpon>AddRAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminPanel.resx">
+      <DependentUpon>adminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="showCPU.resx">
+      <DependentUpon>showCPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowCPUForUsers.resx">
+      <DependentUpon>ShowCPUForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowGPU.resx">
+      <DependentUpon>ShowGPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowGPUForUsers.resx">
+      <DependentUpon>ShowGPUForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowKeyboard.resx">
+      <DependentUpon>ShowKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowKeyboardForUsers.resx">
+      <DependentUpon>ShowKeyboardForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowMonitor.resx">
+      <DependentUpon>ShowMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowMonitorForUsers.resx">
+      <DependentUpon>ShowMonitorForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowMotherboard.resx">
+      <DependentUpon>ShowMotherboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowMotherboardForUsers.resx">
+      <DependentUpon>ShowMotherboardForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowMouse.resx">
+      <DependentUpon>ShowMouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowMouseForUsers.resx">
+      <DependentUpon>ShowMouseForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPanel.resx">
+      <DependentUpon>ShowPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPSU.resx">
+      <DependentUpon>ShowPSU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowPSUForUsers.resx">
+      <DependentUpon>ShowPSUForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowRAM.resx">
+      <DependentUpon>ShowRAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowRAMForUsers.resx">
+      <DependentUpon>ShowRAMForUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="updateCPU.resx">
+      <DependentUpon>updateCPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateGPU.resx">
+      <DependentUpon>UpdateGPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateKeyboard.resx">
+      <DependentUpon>UpdateKeyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateMonitor.resx">
+      <DependentUpon>UpdateMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateMotherboard.resx">
+      <DependentUpon>UpdateMotherboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateMouse.resx">
+      <DependentUpon>UpdateMouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePanel.resx">
+      <DependentUpon>UpdatePanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdatePSU.resx">
+      <DependentUpon>UpdatePSU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateRAM.resx">
+      <DependentUpon>UpdateRAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userPanel.resx">
+      <DependentUpon>userPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersPanel.resx">
+      <DependentUpon>UsersPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ComputerPartsDataSet.xsc">
+      <DependentUpon>ComputerPartsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ComputerPartsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComputerPartsDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComputerPartsDataSet.xss">
+      <DependentUpon>ComputerPartsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ComputerPartsDataSet1.xsc">
+      <DependentUpon>ComputerPartsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ComputerPartsDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComputerPartsDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComputerPartsDataSet1.xss">
+      <DependentUpon>ComputerPartsDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ComputerPartsDataSet2.xsc">
+      <DependentUpon>ComputerPartsDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ComputerPartsDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComputerPartsDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComputerPartsDataSet2.xss">
+      <DependentUpon>ComputerPartsDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ComputerPartsStorageDataSet3.xsc">
+      <DependentUpon>ComputerPartsStorageDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ComputerPartsStorageDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComputerPartsStorageDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComputerPartsStorageDataSet3.xss">
+      <DependentUpon>ComputerPartsStorageDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hcg.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
